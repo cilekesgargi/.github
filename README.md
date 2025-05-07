@@ -1,2 +1,2 @@
-# .github-profile
-profile
+# Arse (AI LLM)
+🙋‍♀️ hello@goosey.org
